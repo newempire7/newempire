@@ -4,7 +4,7 @@ const CONFIG = {
     name: "newdoin",
     image: "/avatar_custom.png",
     role: "frontend developer",
-    bio: "고민하며 얻은 것들을 <br> 포스팅 합니다 :D",
+    bio: "고민하며 얻은 것들을 포스팅 합니다 :D",
     email: "ehdls6864@naver.com",
     linkedin: "",
     github: "newdoin",

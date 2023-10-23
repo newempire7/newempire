@@ -75,7 +75,7 @@ const StyledWrapper = styled.div`
         width: 150px; 
         text-align:center;
         margin-bottom: 0.5rem;
-        font-size: 0.875rem;
+        font-size: 1.00rem;
         line-height: 1.25rem;
       }
   }

@@ -60,7 +60,7 @@ const StyledWrapper = styled.div`
       flex-direction: column;
       align-items: center;
       .name {
-        font-size: 1.25rem;
+        font-size: 1.5rem;
         line-height: 1.75rem;
         font-style: italic;
         font-weight: 700;
@@ -78,6 +78,9 @@ const StyledWrapper = styled.div`
         font-size: 0.875rem;
         line-height: 1.25rem;
       }
+      .text-sm mb-2 {
+         width: 150px; 
+        text-align:center;
     }
   }
 `

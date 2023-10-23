@@ -72,14 +72,12 @@ const StyledWrapper = styled.div`
         color: ${({ theme }) => theme.colors.gray11};
       }
       .bio {
-        width: 150px; 
-        text-align:center;
         margin-bottom: 0.5rem;
         font-size: 0.875rem;
         line-height: 1.25rem;
       }
       .text-sm mb-2 {
-         width: 150px; 
+        width: 150px; 
         text-align:center;
     }
   }

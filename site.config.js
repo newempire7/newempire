@@ -4,7 +4,7 @@ const CONFIG = {
     name: "newdoin",
     image: "/avatar_custom.png",
     role: "frontend developer",
-    bio: "사람들이 찾는 서비스를 만들고 싶어요",
+    bio: "FE 개발자 신도인 입니다 :D \n 고민하며 얻은 것들을 포스팅 합니다.",
     email: "ehdls6864@naver.com",
     linkedin: "",
     github: "newdoin",
@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `blog`,
-      href: "https://github.com/newdoin/newdoin-log",
+      href: "https://github.com/newdoin/blog",
     },
   ],
   // blog setting (required)

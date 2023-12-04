@@ -3,7 +3,7 @@ const CONFIG = {
   profile: {
     name: "newdoin",
     image: "/avatar_custom.png",
-    role: "Cloud/Infra Engineer",
+    role: "Cloud•Infra Engineer",
     bio: "고민하며 얻은 것들을 포스팅 합니다 :D",
     email: "ehdls6864@naver.com",
     linkedin: "",

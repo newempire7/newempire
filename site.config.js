@@ -1,29 +1,29 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "newdoin",
+    name: "newempire의 블로그,
     image: "/avatar_custom.png",
     role: "cloud-infra engineer",
-    bio: "고민하며 얻은 것들을 포스팅 합니다 :D",
-    email: "ehdls6864@naver.com",
+    bio: "살다보니, 여러가지 인사이트를 얻었습니다.",
+    email: "newempire.biz@gmail.com",
     linkedin: "",
-    github: "newdoin",
-    instagram: "",
+    github: "",
+    instagram: "new_empire7",
   },
   projects: [
     {
-      name: `blog`,
-      href: "https://github.com/newdoin/blog",
+      name: `이런저런 사업`,
+      href: "",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "newdoin-log",
-    description: "welcome to newdoin-log!",
+    title: "newempire_log",
+    description: "welcome to newempire-log!",
   },
 
   // CONFIG configration (required)
-  link: "https://newdoin-log.vercel.app",
+  link: "https://newempire.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
@@ -47,7 +47,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: "newdoin/blog-comments",
       "issue-term": "og:title",

@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "newempire의 블로그,
+    name: "newempire의 블로그",
     image: "/avatar_cow.png",
     role: "도전러",
     bio: "살다보니, 여러가지 인사이트를 얻었습니다.",

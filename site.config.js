@@ -47,9 +47,9 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: false,
+    enable: true,
     config: {
-      repo: "newdoin/blog-comments",
+      repo: "newewempire7/newempire",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },

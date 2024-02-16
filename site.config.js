@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "newempire의 블로그",
+    name: "NEW_EMPIRE",
     image: "/avatar_cow.png",
     role: "도전러",
-    bio: "살다보니, 여러가지 인사이트를 얻었습니다.",
+    bio: "살다보니, 살아집니다.",
     email: "newempire.biz@gmail.com",
     linkedin: "",
     github: "",
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "newempire_log",
+    title: "NEW_EMPIRE",
     description: "welcome to newempire-log!",
   },
 

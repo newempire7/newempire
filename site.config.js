@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "NEW_EMPIRE",
-    image: "/avatar_cow.png",
+    image: "/Cow Avatar.png",
     role: "도전러",
     bio: "살다보니, 살아집니다.",
     email: "newempire.biz@gmail.com",
